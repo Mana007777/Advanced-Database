@@ -1,0 +1,1 @@
+EXEC AddBooking(1, 101, 1, 5, TO_DATE('2025-04-01', 'YYYY-MM-DD'), TO_DATE('2025-04-06', 'YYYY-MM-DD'), 500.00);
